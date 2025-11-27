@@ -1,4 +1,8 @@
 # 🌾 Agricultural Yield Prediction using Advanced Regression
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)]()
+[![Accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 ## 📊 Project Overview
 A comprehensive machine learning solution predicting standardized crop yields using World Bank agricultural data. This project demonstrates advanced regression techniques with 97% accuracy.
