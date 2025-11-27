@@ -85,7 +85,7 @@ I'm passionate about applying data science to development challenges. Let's conn
 - Food security and sustainability
 - Development policy and planning
 
-**📫 Connect with me:** https://linkedin.com/in/MosesMugayaMASHENGU
+**📫 Connect with me:** www.linkedin.com/in/moses-mashengu-
 
 ---
 
